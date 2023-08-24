@@ -50,6 +50,6 @@ model = Sequential([
 
 ## Training
 
-The model was trained for 20 epochs. The model was compiled using Adam optimizer and categorical crossentropy Loss Functions. The mode was trained on Kaggle Notebook and achieve an accuracy of 0.96 on the training set and 0.92 on the validation set.
+The model was trained for 20 epochs. The model was compiled using Adam optimizer and categorical crossentropy Loss Functions. The mode was trained on Kaggle Notebook and achieve an accuracy of <b>0.96</b> on the <b>training</b> set and <b>0.92</b> on the <b>validation</b> set.
 
 
